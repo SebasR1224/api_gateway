@@ -2,6 +2,6 @@
     "url-backend": "127.0.0.1",
     "port": 7777,
 
-    "backend_registraduria_resultados": "http://127.0.0.1:9999",
-    "backend_registraduria_seguridad": "http://127.0.0.1:8080"
+    "url_backend_results": "http://127.0.0.1:9999",
+    "url_backend_security": "http://127.0.0.1:8080"
 }
